@@ -146,3 +146,4 @@ echo ${ARR[@]}
 declare -p ARR
 echo ${RESPONSES[5]}
 ./fortune.sh
+help
