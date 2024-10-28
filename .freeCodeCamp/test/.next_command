@@ -78,3 +78,4 @@ echo $?
 [[ 10 -ge 5 ]]
 [[ 5 -ge 10 ]]
 [[ 10 -ne 5 ]]
+bad_command
