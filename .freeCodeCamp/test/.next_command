@@ -109,3 +109,4 @@ printev
 printenv
 echo $LANG
 declare -p
+echo $RANDOM
